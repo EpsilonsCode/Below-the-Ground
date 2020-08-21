@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "belowtheground:astralite_shard",
+		  "weight": 2
+        },
+		{
+          "type": "minecraft:item",
+          "name": "belowtheground:plant_fossil",
+		  "weight": 48
+        },
+        {
+          "type": "minecraft:item",
+          "name": "belowtheground:amber",
+		  "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:cobblestone",
+		  "weight": 40
+        }		
+      ]
+    }
+  ]
+}

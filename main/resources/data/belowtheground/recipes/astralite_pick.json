@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "iii",
+    " I ",
+    " I "
+  ],
+  "key": {
+    "i": {
+      "item": "belowtheground:astralite_shard"
+    },
+	"I": {
+	  "item": "minecraft:stick"
+	}
+  },
+  "result": {
+    "item": "belowtheground:astralite_pick",
+	"count": 1
+  }
+}

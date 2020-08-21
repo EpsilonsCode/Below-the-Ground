@@ -1,0 +1,19 @@
+{
+	"item.belowtheground.amber": "Amber",
+	"item.belowtheground.plant_fossil": "Plant Fossil",
+	"item.belowtheground.astralite_shard": "Astralite Shard",
+	"item.belowtheground.astralite_sword": "Astralite Sword",
+	"item.belowtheground.astralite_pick": "Astralite Pickaxe",
+	"item.belowtheground.astralite_axe": "Astralite Axe",
+	"item.belowtheground.astralite_spade": "Astralite Shovel",
+	"item.belowtheground.astralite_hoe": "Astralite Hoe",
+    
+	"block.belowtheground.astralite_ore": "Astralite Ore",
+	"block.belowtheground.astralite_block": "Astralite Block",
+	"block.belowtheground.fossil_ore": "Fossil Ore",
+	"block.belowtheground.amber_ore": "Amber Ore",
+	
+	"screen.belowtheground.fossilcleaner": "Fossil Cleaner",
+	
+    "itemGroup.below_the_ground": "Below The Ground"
+}

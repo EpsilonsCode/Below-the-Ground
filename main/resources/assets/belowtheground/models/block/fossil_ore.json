@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "belowtheground:blocks/fossil_ore"
+    }
+}

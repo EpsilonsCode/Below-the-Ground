@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "belowtheground:astralite_block"
+    }
+  ],
+  "result": {
+    "item": "belowtheground:astralite_shard",
+	"count": 9
+  }
+}
